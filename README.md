@@ -1,3 +1,5 @@
+> **Note:** To access all shared projects, get information about environment setup, and view other guides, please visit [Explore-In-HMOS Index](https://github.com/Explore-In-HMOS/hmos-index).
+
 # QuickReminder
 
 **QuickReminder** is a lightweight reminder application designed specifically for HarmonyOS-based wearable devices. The app allows users to create short-term reminders (in seconds) and receive a notification when the time expires.
